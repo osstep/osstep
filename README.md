@@ -1,11 +1,10 @@
 <h1 align="left">:wave: Hello there! I'm Stepan Osadsi!</h1>
 
 
-<h4 align="left">I'm a Frontend Web Developer🧊</h4>
+<h4 align="left">I'm a QA Engineer🧊</h4>
 
 
 - :speech_balloon: &nbsp;Elementary development experience
-- :writing_hand: &nbsp;Know how to use **[Vue 3](https://vue.js.org/)**
 - :fire: &nbsp;1 year QA experience
 
 <br>
