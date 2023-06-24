@@ -5,7 +5,7 @@
 
 
 - :speech_balloon: &nbsp;Elementary development experience
-- :fire: &nbsp;1 year QA experience
+- :fire: &nbsp;2 year QA experience
 
 <br>
 
